@@ -5,7 +5,7 @@ import "../_resources/logo.svg"
 import { useDropzone } from "react-dropzone";
 
 export default function Home() {
-  const [light, setLight] = useState(false);
+  const [light, setLight] = useState(true);
   const [isLoading, setIsLoading] = useState(false);
   const [progress, setProgress] = useState(0);
   const router = useRouter();
