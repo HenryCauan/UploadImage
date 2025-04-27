@@ -1,5 +1,6 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import Head from "next/head";
 
 export const metadata = {
   title: "ImageUpload",
@@ -13,7 +14,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* Remova a tag <link> manual */}
+        <link rel="icon" href="/logo-small.svg" type="image/svg+xml" />
       </head>
       <body>
         {children}
