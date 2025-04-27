@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Claro! Aqui está uma sugestão de README para o seu projeto **UploadImage**:
 
-## Getting Started
+---
 
-First, run the development server:
+# UploadImage
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**UploadImage** é um site simples que permite aos usuários compartilhar a URL de uma imagem e fazer o download dessa imagem de forma prática.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Funcionalidades
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Inserção de uma URL de imagem.
+- Visualização da imagem diretamente no navegador.
+- Download da imagem para o dispositivo do usuário.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🚀 Tecnologias utilizadas
 
-## Learn More
+- HTML5
+- CSS3
+- JavaScript
 
-To learn more about Next.js, take a look at the following resources:
+## 📸 Demonstração
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Image](https://github.com/user-attachments/assets/2326f94c-3d04-492b-bb57-e04f36126f06)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Como usar
 
-## Deploy on Vercel
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/HenryCauan/UploadImage.git
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. Acesse a pasta do projeto:
+   ```bash
+   cd UploadImage
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+3. Abra o arquivo `index.html` no seu navegador.
+
+## 📥 Como funciona
+
+- Você insere a URL da imagem desejada.
+- O site carrega e exibe a imagem automaticamente.
+- Um botão é disponibilizado para baixar a imagem diretamente.
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Se quiser, também posso montar uma versão com badges (aqueles selinhos de "feito com ❤️" ou "license MIT" no topo).  
+Quer que eu faça também? 🚀🎨
