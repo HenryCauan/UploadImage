@@ -1,10 +1,10 @@
-Claro! Aqui está uma sugestão de README para o seu projeto **UploadImage**:
+Claro! Aqui está o README atualizado mencionando o **Next.js**:
 
 ---
 
 # UploadImage
 
-**UploadImage** é um site simples que permite aos usuários compartilhar a URL de uma imagem e fazer o download dessa imagem de forma prática.
+**UploadImage** é um site desenvolvido com **Next.js** que permite aos usuários compartilhar a URL de uma imagem e fazer o download dessa imagem de forma prática.
 
 ## ✨ Funcionalidades
 
@@ -14,6 +14,8 @@ Claro! Aqui está uma sugestão de README para o seu projeto **UploadImage**:
 
 ## 🚀 Tecnologias utilizadas
 
+- Next.js
+- React
 - HTML5
 - CSS3
 - JavaScript
@@ -34,7 +36,20 @@ Claro! Aqui está uma sugestão de README para o seu projeto **UploadImage**:
    cd UploadImage
    ```
 
-3. Abra o arquivo `index.html` no seu navegador.
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
+
+4. Rode o projeto:
+   ```bash
+   npm run dev
+   ```
+
+5. Acesse no navegador:
+   ```
+   http://localhost:3000
+   ```
 
 ## 📥 Como funciona
 
@@ -48,5 +63,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Se quiser, também posso montar uma versão com badges (aqueles selinhos de "feito com ❤️" ou "license MIT" no topo).  
-Quer que eu faça também? 🚀🎨
+Se quiser, também posso fazer uma versão ainda mais bonitinha com badges, seção de "Deploy" se você tiver hospedado, ou até com uma explicação do porquê de usar Next.js nesse projeto.  
+Quer que eu adicione? 🚀🎨
