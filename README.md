@@ -1,6 +1,3 @@
-Claro! Aqui está o README atualizado mencionando o **Next.js**:
-
----
 
 # UploadImage
 
