@@ -91,7 +91,7 @@ export default function Home() {
           {isLoading ? (
             <div className={`w-[85vw] h-[50vh] sm:w-[45rem] sm:h-[10rem] ${light ? 'bg-white' : 'bg-[color:#212936]'} p-4 rounded-lg flex flex-col justify-center items-center gap-2 z-20 relative box-shadown`}>
               <p className={`${light ? 'text-black' : 'text-white'}`}>
-                <span className="font-bold">Uploading</span>, please wait...
+                <span className="font-bold">Uploading</span>, please wait..
               </p>
               <div className="w-[90%] bg-gray-200 rounded-full h-3 mb-4">
                 <div
