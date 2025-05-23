@@ -58,7 +58,3 @@
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-
-Se quiser, também posso fazer uma versão ainda mais bonitinha com badges, seção de "Deploy" se você tiver hospedado, ou até com uma explicação do porquê de usar Next.js nesse projeto.  
-Quer que eu adicione? 🚀🎨
